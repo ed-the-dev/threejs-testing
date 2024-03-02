@@ -1,6 +1,8 @@
 ## Description
 
-Leetcode solutions :smile:
+Using Littlest Tokyo as a test platform for threejs :smile:
+
+![Littlest Tokyo](littlest-tokyo.png)
 
 ## Installation
 
